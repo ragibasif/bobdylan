@@ -154,6 +154,9 @@ See [LICENSE](LICENSE) for more information.
 ## Acknowledgements
 
 - [Dataset from Kaggle](https://www.kaggle.com/datasets/cloudy17/bob-dylan-songs)
+- [Graph Inspirations](https://python-graph-gallery.com/)
+- NLTK:
+    - Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
 > **[?]**
 > If your work was funded by any organization or institution, acknowledge their support here.
 > In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
