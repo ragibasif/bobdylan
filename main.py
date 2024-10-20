@@ -6,6 +6,11 @@ DATA_FILE = "./dataset/lyrics.csv"
 
 class Data:
     def __init__(self, name="Bob Dylan"):
+        """_summary_ Get data from csv file.
+
+        Args:
+            name (str, optional): _description_. Defaults to "Bob Dylan".
+        """
         self.name = name
         self.data = pd.read_csv(DATA_FILE)
         if self.data is None:

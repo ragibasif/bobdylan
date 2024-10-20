@@ -41,7 +41,7 @@
 - [Support](#support)
 - [Project assistance](#project-assistance)
 - [Contributing](#contributing)
-- [Authors & contributors](#authors--contributors)
+- [Authors \& contributors](#authors--contributors)
 - [Security](#security)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -58,6 +58,8 @@
 > What is the purpose of your project?
 > Why did you undertake it?
 > You don't have to answer all the questions -- just the ones relevant to your project.
+
+**Does not include _Shadow Kingdom_ in the dataset.**
 
 <details>
 <summary>Screenshots</summary>
@@ -151,6 +153,7 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
+- [Dataset from Kaggle](https://www.kaggle.com/datasets/cloudy17/bob-dylan-songs)
 > **[?]**
 > If your work was funded by any organization or institution, acknowledge their support here.
 > In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
