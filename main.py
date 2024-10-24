@@ -65,7 +65,7 @@ def main():
     albums = get_albums_by_year()
     # album_release_by_decade_density(albums)
     songs = get_songs_by_year()
-    create_word_cloud()
+    # create_word_cloud()
 
 
 if __name__ == "__main__":
